@@ -1,16 +1,16 @@
 /* Write your code here. */
 .image {
-    width: 85px;
-    height: 85px;
+    width: 80px;
+    height: 80px;
   }
   .emoji-button {
     cursor: pointer;
     outline: none;
     border-style: solid;
     background-color: #ffffff33;
-    width: 160px;
-    height: 160px;
-    padding: 12px;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
     border-color: #ffffff30;
     margin: 10px;
     border-radius: 20px;
