@@ -1,0 +1,38 @@
+/* Write your code here. */
+.nav-container {
+    background-color: #ffffff33;
+  }
+  .logo-and-score {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .logo-and-title {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .logo {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .title {
+    color: #ffffff;
+  }
+  .scores-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #ffffff;
+    font-size: 20px;
+    font: bold;
+    justify-content: center;
+  }
+  .scores {
+    font-weight: bold;
+    margin-right: 40px;
+  }
+  
